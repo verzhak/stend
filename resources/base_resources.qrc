@@ -1,0 +1,20 @@
+
+<RCC>
+
+	<qresource>
+	
+		<file alias="scripts/time">../stat/scripts/time.r</file>
+		<file alias="scripts/memory">../stat/scripts/memory.r</file>
+		<file alias="scripts/time_memory_2D">../stat/scripts/time_memory_2D.r</file>
+		<file alias="scripts/time_memory_3D">../stat/scripts/time_memory_3D.r</file>
+		<file alias="scripts/call">../stat/scripts/call.r</file>
+		<file alias="scripts/call_first">../stat/scripts/call_first.r</file>
+		<file alias="scripts/call_second">../stat/scripts/call_second.r</file>
+		<file alias="scripts/combine_quality">../stat/scripts/combine_quality.r</file>
+
+		<file alias="font">times.ttf</file>
+
+	</qresource>
+
+</RCC>
+

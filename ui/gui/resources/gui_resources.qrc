@@ -1,0 +1,77 @@
+
+<RCC>
+
+	<qresource>
+	
+		<file alias="splash">splash.png</file>
+
+	</qresource>
+
+	<qresource prefix="icons">
+
+		<file alias="logo">icons/logo.png</file>
+		<file alias="about">icons/about.png</file>
+		<file alias="start">icons/start.png</file>
+		<file alias="stop">icons/stop.png</file>
+		<file alias="delete">icons/delete.png</file>
+		<file alias="save">icons/save.png</file>
+		<file alias="yes">icons/yes.png</file>
+
+		<file alias="process">icons/process.png</file>
+		<file alias="script">icons/script.png</file>
+		<file alias="module">icons/module.png</file>
+		<file alias="video">icons/video.png</file>
+		<file alias="src_video">icons/src_video.png</file>
+		<file alias="metadata">icons/metadata.png</file>
+		<file alias="dst_video">icons/dst_video.png</file>
+		<file alias="maps">icons/map.png</file>
+		<file alias="map">icons/map.png</file>
+		<file alias="height_map">icons/height_map.png</file>
+		<file alias="setup">icons/setup.png</file>
+		<file alias="experiment">icons/experiment.png</file>
+		<file alias="experiment_load">icons/load.png</file>
+		<file alias="experiment_save">icons/save.png</file>
+
+		<file alias="window">icons/window.png</file>
+		<file alias="foreground">icons/foreground.png</file>
+		<file alias="cascade">icons/cascade.png</file>
+		<file alias="tile">icons/tile.png</file>
+
+	</qresource>
+
+	<qresource prefix="stat">
+
+		<file alias="stat">icons/stat/stat.png</file>
+		<file alias="display">icons/stat/display.png</file>
+		<file alias="save">icons/save.png</file>
+
+		<file alias="time">icons/stat/time.png</file>
+		<file alias="memory">icons/stat/memory.png</file>
+		<file alias="time_memory_2D">icons/stat/time_memory_2D.png</file>
+		<file alias="time_memory_3D">icons/stat/time_memory_3D.png</file>
+		<file alias="call">icons/stat/call.png</file>
+		<file alias="call_first">icons/stat/call_first.png</file>
+		<file alias="call_second">icons/stat/call_second.png</file>
+		<file alias="combine_quality">icons/stat/combine_quality.png</file>
+
+	</qresource>
+
+	<qresource prefix="db">
+
+		<file alias="db">icons/db.png</file>
+		<file alias="load">icons/load.png</file>
+		<file alias="connect">icons/connect.png</file>
+		<file alias="save">icons/save.png</file>
+		<file alias="create">icons/create.png</file>
+		<file alias="reload">icons/reload.png</file>
+		<file alias="script">icons/script.png</file>
+		<file alias="module">icons/module.png</file>
+		<file alias="video">icons/video.png</file>
+		<file alias="metadata">icons/metadata.png</file>
+		<file alias="map">icons/map.png</file>
+		<file alias="height_map">icons/height_map.png</file>
+
+	</qresource>
+
+</RCC>
+
